@@ -26,5 +26,7 @@ int main() {
 
 	for (auto& a : grupe) a.printasRez();
 	system("pause");
+	system("pause");
+	system("pause");
 }
 
