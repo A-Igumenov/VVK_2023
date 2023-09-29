@@ -4,6 +4,7 @@ int main() {
 	cout << "Kaip skaiciuoti galutini? v/m ";
 	cin >>skaiciavimo_Strategija ;
 
+	system("pause");
 
 	cout << "Iveskite studenta";
 	vector <studentas> grupe;
